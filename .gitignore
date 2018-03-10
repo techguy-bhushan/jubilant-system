@@ -1,0 +1,16 @@
+.metadata
+.idea/
+.settings
+.classpath
+.project
+target/
+build/
+*.iml
+*.log
+*.tmp
+*.swp
+*.err
+*.retry
+.cvsignore
+.settingstarget
+.classpathtarget
